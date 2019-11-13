@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\s199027\source\repos\conditionsloopsc++\pointers\main.cpp(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\pointers\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\pointers\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\pointers\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\pointers\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Pointers.vcxproj -> C:\Users\s199027\source\repos\ConditionsLoopsC++\Debug\Pointers.exe

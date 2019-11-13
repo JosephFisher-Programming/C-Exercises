@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\chararrays\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  CharArrays.vcxproj -> C:\Users\s199027\source\repos\ConditionsLoopsC++\Debug\CharArrays.exe

@@ -1,0 +1,11 @@
+﻿  Utils.cpp
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(78): warning C4018: '>': signed/unsigned mismatch
+c:\users\s199027\source\repos\conditionsloopsc++\arraysc++\utils.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  ArraysC++.vcxproj -> C:\Users\s199027\source\repos\ConditionsLoopsC++\Debug\ArraysC++.exe

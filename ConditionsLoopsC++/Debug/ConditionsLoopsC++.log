@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\s199027\source\repos\conditionsloopsc++\conditionsloopsc++\main.cpp(211): warning C4804: '%': unsafe use of type 'bool' in operation
+c:\users\s199027\source\repos\conditionsloopsc++\conditionsloopsc++\main.cpp(234): warning C4804: '%': unsafe use of type 'bool' in operation
+c:\users\s199027\source\repos\conditionsloopsc++\conditionsloopsc++\main.cpp(450): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\s199027\source\repos\conditionsloopsc++\conditionsloopsc++\main.cpp(623): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConditionsLoopsC++.vcxproj -> C:\Users\s199027\source\repos\ConditionsLoopsC++\Debug\ConditionsLoopsC++.exe
