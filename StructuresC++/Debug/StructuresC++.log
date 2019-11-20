@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  playerRandomization.cpp
+c:\users\s199027\source\repos\conditionsloopsc++\structuresc++\playerrandomization.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\s199027\source\repos\conditionsloopsc++\structuresc++\playerrandomization.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  StructuresC++.vcxproj -> C:\Users\s199027\source\repos\ConditionsLoopsC++\Debug\StructuresC++.exe

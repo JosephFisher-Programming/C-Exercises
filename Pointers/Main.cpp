@@ -99,6 +99,13 @@ char GetPointer(char * letters, char charToCheck, bool caseSensitive)
 	return NULL;
 }
 
+void PointerSwappers(int *& a, int *& b) 
+{
+	int * c = a;
+	a = b;
+	b = c;
+}
+
 int main() 
 {
 	float * floatVal = new float[5];
@@ -128,7 +135,24 @@ int main()
 	std::cout << copyArray[0] << " " << copyArray[1] << " " << copyArray[2] << " " << copyArray[3] << " " << copyArray[4] << std::endl;
 
 	char letters[5] = { 'g','E','f','l','O' };
-	std::cout << GetPointer(letters, 'E', false);
+	std::cout << GetPointer(letters, 'E', false) << std::endl;;
+
+	int val = 2;
+	int otherVal = 4;
+
+	int * a = &val;
+	int * b = &otherVal;
+
+	std::cout << val << std::endl;
+	std::cout << otherVal << std::endl;
+
+	std::cout << *a << std::endl;
+	std::cout << *b << std::endl;
+
+	PointerSwappers(a, b);
+
+	std::cout << *a << std::endl;
+	std::cout << *b << std::endl;
 
 	while (true) {}
 	return 0;
